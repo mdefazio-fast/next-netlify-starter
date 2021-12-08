@@ -23,6 +23,13 @@ export default function Home() {
 
       </main>
 
+      <body>
+      <form>
+        <fast-checkout-button id="fast-checkout-button"></fast-checkout-button>
+      </form>
+      <br>
+      </body>
+    
       <Footer />
     </div>
   )
