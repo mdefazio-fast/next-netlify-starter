@@ -16,10 +16,10 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
         <br>
-<form>
-    <fast-checkout-button id="fast-checkout-button"></fast-checkout-button>
-</form>
-<br>
+      <form>
+        <fast-checkout-button id="fast-checkout-button"></fast-checkout-button>
+      </form>
+      <br>
 
       </main>
 
